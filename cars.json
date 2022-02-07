@@ -1,4 +1,4 @@
-"data": [
+[
     {
         "name": "Suzuki Swift",
         "category": "Category: Budget",
@@ -6,7 +6,7 @@
         "suitcases": 1,
         "comfort": "Comfort: Low",
         "image": "img/swift.png",
-        "priceperday": 100,
+        "priceperday": 100
     },
     {
         "name": "Mazda 3",
@@ -15,7 +15,7 @@
         "suitcases": 3,
         "comfort": "Comfort: Medium",
         "image": "img/mazda-3.png",
-        "priceperday": 160,
+        "priceperday": 160
     },
     {
         "name": "Citroën Grand C4 Picasso",
@@ -24,6 +24,6 @@
         "suitcases": 4,
         "comfort": "Comfort: High",
         "image": "img/picasso.png",
-        "priceperday": 205,
-    },
+        "priceperday": 205
+    }
 ]
